@@ -1,0 +1,802 @@
+[
+  {
+    "family": "veiculos_lazer",
+    "slug": "fifthwheel_cozinha",
+    "environment": "A parked American fifth-wheel camper, modest kitchen cabinets and a mountain campground through a window.",
+    "surface": "A broad fixed level kitchen island.",
+    "lighting": "Bright midday window light.",
+    "sleeves": "Forest green sweatshirt sleeves."
+  },
+  {
+    "family": "carros_estrada",
+    "slug": "detailing_garagem",
+    "environment": "A home auto-detailing garage with a parked vintage station wagon, folded microfiber towels and closed supplies behind.",
+    "surface": "A broad rigid level stainless worktable, food area separate from supplies.",
+    "lighting": "Neutral overhead light.",
+    "sleeves": "Slate blue work-shirt sleeves."
+  },
+  {
+    "family": "hobbies",
+    "slug": "telescopio_varanda",
+    "environment": "A covered Arizona patio with a telescope parked at the far end and desert mountains visible beyond.",
+    "surface": "A broad firm horizontal cedar patio table.",
+    "lighting": "Warm sunset light, foreground clearly exposed.",
+    "sleeves": "Sand-colored cotton sleeves."
+  },
+  {
+    "family": "campo_trabalho",
+    "slug": "feedstore_office",
+    "environment": "An American feed-store office with a rural map and a window onto stacked feed sacks in the distant storeroom.",
+    "surface": "A broad flat wooden desk with a clean dedicated food area.",
+    "lighting": "Warm side daylight.",
+    "sleeves": "Brown checked work-shirt sleeves."
+  },
+  {
+    "family": "casa_oficina",
+    "slug": "oficina_porao",
+    "environment": "A tidy basement home workshop with painted concrete walls, a tool chest and a small window high on the wall.",
+    "surface": "A wide level clean plywood workbench.",
+    "lighting": "Mixed cool window light and warm ceiling lamps.",
+    "sleeves": "Deep green flannel sleeves."
+  },
+  {
+    "family": "nostalgia_lanchonetes",
+    "slug": "roadside_bbq",
+    "environment": "An American roadside barbecue restaurant porch with old license plates and distant picnic tables.",
+    "surface": "A broad sturdy level wooden porch table.",
+    "lighting": "Soft shaded afternoon light.",
+    "sleeves": "Dark green casual shirt sleeves."
+  },
+  {
+    "family": "esportes",
+    "slug": "bowling_alley",
+    "environment": "An American bowling alley lounge with lanes, score screens and ball racks in the distance.",
+    "surface": "A broad sturdy horizontal lounge table, all bowling equipment away from food.",
+    "lighting": "Warm room light, brightly exposed foreground.",
+    "sleeves": "Burgundy casual jacket sleeves."
+  },
+  {
+    "family": "cotidiano_lojas",
+    "slug": "barbershop_break",
+    "environment": "An old-fashioned American barbershop break corner with barber chairs and striped pole distant behind.",
+    "surface": "A broad sturdy horizontal side table away from grooming supplies.",
+    "lighting": "Warm room light and side window daylight.",
+    "sleeves": "Gray cotton shirt sleeves."
+  },
+  {
+    "family": "comunidade",
+    "slug": "volunteer_foodhall",
+    "environment": "An American volunteer-center multipurpose hall with stacked chairs, bulletin board and distant stainless urns.",
+    "surface": "A broad clean level banquet table.",
+    "lighting": "Bright neutral overhead light.",
+    "sleeves": "Pale beige cotton shirt sleeves."
+  },
+  {
+    "family": "ar_livre",
+    "slug": "lago_cais",
+    "environment": "A lakeside fishing dock, distant reeds, a tackle box and quiet boats away from the food.",
+    "surface": "A broad level wooden dock table with visible rigid legs.",
+    "lighting": "Pale morning light.",
+    "sleeves": "Light blue fishing-shirt sleeves."
+  },
+  {
+    "family": "ar_livre",
+    "slug": "praia_camping",
+    "environment": "A coastal American campground with dune grass, wooden fencing and ocean visible behind.",
+    "surface": "A broad horizontal picnic table on a firm level pad.",
+    "lighting": "Bright diffused coastal daylight.",
+    "sleeves": "Beige windbreaker sleeves."
+  },
+  {
+    "family": "carros_estrada",
+    "slug": "classic_mustang",
+    "environment": "A garage beside a parked 1960s American muscle car, chrome grille and car posters in the background.",
+    "surface": "A wide level rolling worktable with locked casters and a clean preparation board.",
+    "lighting": "Daylight through an open garage.",
+    "sleeves": "Dark gray mechanic shirt sleeves."
+  },
+  {
+    "family": "hobbies",
+    "slug": "trens_modelismo",
+    "environment": "An American model railroad basement with a miniature town and stationary tracks on a separate rear table.",
+    "surface": "A broad level clean hobby table away from the layout and transformer.",
+    "lighting": "Warm basement ceiling light.",
+    "sleeves": "Navy plaid flannel sleeves."
+  },
+  {
+    "family": "cotidiano_lojas",
+    "slug": "costco_patio",
+    "environment": "A Costco warehouse outdoor food-court seating area, warehouse entrance and distant parked carts behind.",
+    "surface": "A broad fixed horizontal picnic-style table.",
+    "lighting": "Bright shaded afternoon daylight.",
+    "sleeves": "Heather gray sweatshirt sleeves."
+  },
+  {
+    "family": "casa_oficina",
+    "slug": "bancada_conserto",
+    "environment": "A home repair room with neatly organized drill bits, hardware drawers and an unplugged bench drill in the background.",
+    "surface": "A large clear horizontal repair bench with a clean dedicated oak board.",
+    "lighting": "Neutral overhead shop lighting.",
+    "sleeves": "Charcoal mechanic shirt sleeves."
+  },
+  {
+    "family": "campo_trabalho",
+    "slug": "silo_office",
+    "environment": "A grain-farm office with filing cabinets, farm calendar and silver silos visible through a window.",
+    "surface": "A broad level oak office table with a clear recipe area.",
+    "lighting": "Bright morning daylight.",
+    "sleeves": "Tan farmer shirt sleeves."
+  },
+  {
+    "family": "veiculos_lazer",
+    "slug": "sailboat_cabin",
+    "environment": "Inside the cabin of a sailboat securely moored at a dock, wood interior and calm marina outside the porthole.",
+    "surface": "A broad fixed horizontal cabin table with enough room for the recipe.",
+    "lighting": "Natural side daylight.",
+    "sleeves": "Pale blue knit sweater cuffs."
+  },
+  {
+    "family": "nostalgia_lanchonetes",
+    "slug": "mountain_breakfast",
+    "environment": "A rustic American mountain breakfast lodge with a stone fireplace and empty booth seating behind.",
+    "surface": "A broad fixed level wood dining table.",
+    "lighting": "Warm lamp light with soft morning daylight.",
+    "sleeves": "Brown flannel sleeves."
+  },
+  {
+    "family": "comunidade",
+    "slug": "fire_trainingroom",
+    "environment": "A volunteer fire-station training room with a whiteboard, department patch and equipment lockers in the background.",
+    "surface": "A broad level training-room table, separate from equipment.",
+    "lighting": "Bright neutral overhead light.",
+    "sleeves": "Blue work-shirt sleeves."
+  },
+  {
+    "family": "esportes",
+    "slug": "highschool_gym",
+    "environment": "An American high-school basketball gym lobby, trophy cases and court doorway in the background.",
+    "surface": "A broad level community folding table outside the court.",
+    "lighting": "Bright neutral overhead lights.",
+    "sleeves": "Navy varsity sleeves with gold ribbed cuffs."
+  },
+  {
+    "family": "veiculos_lazer",
+    "slug": "rv_camping",
+    "environment": "Inside a stationary classic American RV, cabinetry, a campground through the window and a plaid seat behind.",
+    "surface": "A broad rigid horizontal dinette table firmly attached, all controls away.",
+    "lighting": "Natural morning window light.",
+    "sleeves": "Blue flannel sleeves."
+  },
+  {
+    "family": "nostalgia_lanchonetes",
+    "slug": "county_bakery",
+    "environment": "A small American county-town bakery seating area with brick walls and old local photographs behind.",
+    "surface": "A broad level wooden cafe table, no pastries near the recipe.",
+    "lighting": "Gentle late morning window light.",
+    "sleeves": "Cream cardigan cuffs."
+  },
+  {
+    "family": "esportes",
+    "slug": "ice_rink_lobby",
+    "environment": "A community ice-rink lobby with windows onto the rink and distant benches, no moving vehicle.",
+    "surface": "A broad stable level wooden lounge table.",
+    "lighting": "Neutral overhead light.",
+    "sleeves": "Deep blue fleece sleeves."
+  },
+  {
+    "family": "campo_trabalho",
+    "slug": "grain_elevator",
+    "environment": "A grain-elevator staff room with weathered wood, a wall clock and a window overlooking grain bins.",
+    "surface": "A broad horizontal wooden staff table.",
+    "lighting": "Soft late morning window light.",
+    "sleeves": "Pale blue cotton shirt sleeves."
+  },
+  {
+    "family": "hobbies",
+    "slug": "aviao_modelo",
+    "environment": "A hobby shed with a large model airplane hung from the ceiling and model kits on a distant shelf.",
+    "surface": "A broad rigid level hobby table with clear preparation space.",
+    "lighting": "Afternoon light from a side window.",
+    "sleeves": "Red checked flannel sleeves."
+  },
+  {
+    "family": "ar_livre",
+    "slug": "cabana_rio",
+    "environment": "A riverside fishing cabin porch with a still river and weathered canoe on the bank beyond.",
+    "surface": "A wide stable horizontal wooden porch table.",
+    "lighting": "Warm early morning light.",
+    "sleeves": "Brown wool shirt sleeves."
+  },
+  {
+    "family": "casa_oficina",
+    "slug": "cozinha_ranch",
+    "environment": "A lived-in ranch-style American kitchen with oak cabinets, a window above the sink and an old wall clock.",
+    "surface": "A wide horizontal butcher-block kitchen island.",
+    "lighting": "Morning window daylight.",
+    "sleeves": "Blue checked cotton shirt sleeves."
+  },
+  {
+    "family": "carros_estrada",
+    "slug": "posto_vintage",
+    "environment": "A preserved vintage American roadside gas station with old pumps and a parked car in the background.",
+    "surface": "A broad sturdy horizontal picnic table on level pavement.",
+    "lighting": "Warm morning daylight.",
+    "sleeves": "Faded red work-shirt sleeves."
+  },
+  {
+    "family": "comunidade",
+    "slug": "townhall_meeting",
+    "environment": "A small-town American community meeting room with a municipal seal, folding chairs and windows behind.",
+    "surface": "A broad level wooden meeting table.",
+    "lighting": "Natural afternoon window light.",
+    "sleeves": "Gray cardigan cuffs."
+  },
+  {
+    "family": "cotidiano_lojas",
+    "slug": "laundromat_lounge",
+    "environment": "A small American laundromat lounge with rows of closed washing machines and empty seats in the background.",
+    "surface": "A broad rigid horizontal wooden lounge table away from detergents.",
+    "lighting": "Bright neutral overhead light.",
+    "sleeves": "Navy sweatshirt sleeves."
+  },
+  {
+    "family": "hobbies",
+    "slug": "fotografia_sala",
+    "environment": "A photography hobby room with framed landscape prints, camera shelves and folded tripods in the background.",
+    "surface": "A broad stable horizontal wooden table away from cameras.",
+    "lighting": "Soft north-facing window light.",
+    "sleeves": "Navy denim shirt sleeves."
+  },
+  {
+    "family": "carros_estrada",
+    "slug": "celeiro_carros",
+    "environment": "An old timber car-storage barn with antique American cars behind, dusty rafters far above the clean recipe.",
+    "surface": "A wide sturdy horizontal workbench with a clean oak board.",
+    "lighting": "Soft side daylight through barn doors.",
+    "sleeves": "Olive canvas jacket sleeves."
+  },
+  {
+    "family": "comunidade",
+    "slug": "rural_lodge",
+    "environment": "An American fraternal lodge recreation room with wood panels, billiard table and framed local photos in the background.",
+    "surface": "A broad level wooden side table, separate from the billiard table.",
+    "lighting": "Warm lamps and soft window light.",
+    "sleeves": "Dark brown casual shirt sleeves."
+  },
+  {
+    "family": "nostalgia_lanchonetes",
+    "slug": "drivein_patio",
+    "environment": "A vintage American drive-in restaurant covered patio with distant parked cars and a retro menu board.",
+    "surface": "A broad fixed level picnic table.",
+    "lighting": "Bright shaded midday light.",
+    "sleeves": "Light gray casual jacket sleeves."
+  },
+  {
+    "family": "esportes",
+    "slug": "football_tailgate",
+    "environment": "An American college-football tailgate with distant stadium towers and parked pickups behind.",
+    "surface": "A broad level folding table on firm pavement.",
+    "lighting": "Bright overcast midday.",
+    "sleeves": "Dark green sweatshirt sleeves."
+  },
+  {
+    "family": "cotidiano_lojas",
+    "slug": "tackle_store",
+    "environment": "An American sporting-goods fishing department with rod racks and closed tackle displays behind.",
+    "surface": "A broad firm level demonstration table, all hooks and tackle away from recipe.",
+    "lighting": "Bright neutral overhead lighting.",
+    "sleeves": "Dark olive outdoor shirt sleeves."
+  },
+  {
+    "family": "ar_livre",
+    "slug": "montanha_lodge",
+    "environment": "A mountain lodge outdoor terrace with pine hills, a stone fireplace and empty chairs behind.",
+    "surface": "A broad level solid-wood terrace table.",
+    "lighting": "Crisp daylight with soft shadows.",
+    "sleeves": "Maroon fleece sleeves."
+  },
+  {
+    "family": "veiculos_lazer",
+    "slug": "truckcamper_lago",
+    "environment": "A stationary truck camper at a northern lakeside campsite, pine shore visible through its open doorway.",
+    "surface": "A wide fixed horizontal dinette table.",
+    "lighting": "Diffuse cool afternoon daylight.",
+    "sleeves": "Red and black flannel sleeves."
+  },
+  {
+    "family": "casa_oficina",
+    "slug": "quintal_deck",
+    "environment": "A suburban backyard deck with a white pergola, patio chairs and hydrangeas behind the preparation.",
+    "surface": "A wide level outdoor dining table.",
+    "lighting": "Bright lightly overcast afternoon.",
+    "sleeves": "Light blue chambray sleeves."
+  },
+  {
+    "family": "campo_trabalho",
+    "slug": "dairy_breakroom",
+    "environment": "A dairy-farm break room with an interior window onto stainless milking equipment and rubber boots stored far away.",
+    "surface": "A broad level clean dining table.",
+    "lighting": "Mixed window and neutral overhead light.",
+    "sleeves": "Gray work-shirt sleeves."
+  },
+  {
+    "family": "veiculos_lazer",
+    "slug": "camper_deserto",
+    "environment": "Inside a stationary travel trailer parked at a desert campground, red rocks visible through a side window.",
+    "surface": "A broad stable horizontal galley counter.",
+    "lighting": "Warm evening window light.",
+    "sleeves": "Cream thermal shirt sleeves."
+  },
+  {
+    "family": "cotidiano_lojas",
+    "slug": "lumber_showroom",
+    "environment": "An American lumber-yard showroom with stacked timber samples and a window onto the yard.",
+    "surface": "A broad stable horizontal workbench with a clean dedicated board.",
+    "lighting": "Bright side daylight.",
+    "sleeves": "Tan canvas shirt sleeves."
+  },
+  {
+    "family": "esportes",
+    "slug": "nascar_campsite",
+    "environment": "An American stock-car race campground with parked RVs and distant grandstand roofs.",
+    "surface": "A broad sturdy horizontal folding table, separate from coolers and tools.",
+    "lighting": "Warm afternoon daylight.",
+    "sleeves": "Dark red cotton shirt sleeves."
+  },
+  {
+    "family": "nostalgia_lanchonetes",
+    "slug": "lakeside_diner",
+    "environment": "A lakeside American diner with knotty-pine walls, fishing photos and a window onto a quiet lake.",
+    "surface": "A broad level wooden dining table.",
+    "lighting": "Cool morning window light.",
+    "sleeves": "Olive checked shirt sleeves."
+  },
+  {
+    "family": "casa_oficina",
+    "slug": "estufa_jardim",
+    "environment": "A backyard greenhouse with seedling benches, glass panes and watering cans behind the preparation area.",
+    "surface": "A wide level potting bench covered by a clean rigid food-preparation board, soil kept far away.",
+    "lighting": "Diffuse daylight through glass.",
+    "sleeves": "Sage green gardener shirt sleeves."
+  },
+  {
+    "family": "comunidade",
+    "slug": "countyfair_pavilion",
+    "environment": "A county-fair community pavilion with quilt displays, distant ribbons and picnic seating.",
+    "surface": "A broad horizontal folding table on firm level flooring.",
+    "lighting": "Warm daylight under the roof.",
+    "sleeves": "Tan denim shirt sleeves."
+  },
+  {
+    "family": "carros_estrada",
+    "slug": "swap_meet_auto",
+    "environment": "An American automotive swap meet, distant booths with vintage signs and car parts beyond the preparation.",
+    "surface": "A broad horizontal folding table on firm level ground, no car parts in the food area.",
+    "lighting": "Bright overcast morning.",
+    "sleeves": "Burgundy work-shirt sleeves."
+  },
+  {
+    "family": "hobbies",
+    "slug": "vinil_sala",
+    "environment": "A den with vinyl records, a vintage turntable and framed jazz album art in the background.",
+    "surface": "A broad horizontal oak side table, not on the turntable.",
+    "lighting": "Soft afternoon window light.",
+    "sleeves": "Muted mustard sweater sleeves."
+  },
+  {
+    "family": "campo_trabalho",
+    "slug": "irrigation_shed",
+    "environment": "A farm irrigation maintenance shed with coiled hoses, pump equipment and field visible through the door.",
+    "surface": "A broad level clean preparation board on a firmly supported workbench.",
+    "lighting": "Bright open-door daylight.",
+    "sleeves": "Navy canvas shirt sleeves."
+  },
+  {
+    "family": "ar_livre",
+    "slug": "orchard_piquenique",
+    "environment": "A small American apple orchard picnic area with neat tree rows and a distant red barn.",
+    "surface": "A broad sturdy horizontal wooden picnic table.",
+    "lighting": "Golden late afternoon sunlight.",
+    "sleeves": "Navy checked flannel sleeves."
+  },
+  {
+    "family": "cotidiano_lojas",
+    "slug": "baitshop_porch",
+    "environment": "A marina bait-shop covered porch with nautical signs and quiet boats beyond.",
+    "surface": "A broad level wooden porch table, no bait in the food area.",
+    "lighting": "Soft morning coastal daylight.",
+    "sleeves": "Light green fishing-shirt sleeves."
+  },
+  {
+    "family": "carros_estrada",
+    "slug": "pickup_tailgate",
+    "environment": "Beside a stationary old American pickup at a county-fair parking area, cattle-barn roof visible behind.",
+    "surface": "A broad rigid horizontal board firmly supported across the open level tailgate.",
+    "lighting": "Golden late afternoon daylight.",
+    "sleeves": "Tan checked shirt sleeves."
+  },
+  {
+    "family": "hobbies",
+    "slug": "moedas_colecao",
+    "environment": "A home coin-collecting desk, framed historical map and closed coin albums stored in the background.",
+    "surface": "A large flat walnut desk with a clear food-preparation zone.",
+    "lighting": "Soft desk lamp and side window light.",
+    "sleeves": "Brown cardigan cuffs."
+  },
+  {
+    "family": "casa_oficina",
+    "slug": "patio_piscina",
+    "environment": "A quiet Florida backyard pool patio with a screened enclosure and palms, no people near the preparation.",
+    "surface": "A broad stable horizontal patio table.",
+    "lighting": "Clear late afternoon daylight.",
+    "sleeves": "Cream lightweight long-sleeve linen shirt."
+  },
+  {
+    "family": "campo_trabalho",
+    "slug": "barn_tack",
+    "environment": "An American horse-barn tack room with saddles and neatly hung bridles behind.",
+    "surface": "A broad stable horizontal wooden worktable with a clean preparation board.",
+    "lighting": "Natural light from an open doorway.",
+    "sleeves": "Blue denim shirt sleeves."
+  },
+  {
+    "family": "veiculos_lazer",
+    "slug": "camp_bus",
+    "environment": "A stationary converted vintage school bus camper, wood shelves and a meadow through its windows.",
+    "surface": "A wide firmly mounted horizontal wooden table.",
+    "lighting": "Soft late afternoon daylight.",
+    "sleeves": "Navy canvas shirt sleeves."
+  },
+  {
+    "family": "comunidade",
+    "slug": "farmers_market",
+    "environment": "A rural American farmers market pavilion with distant produce stalls and red barn siding.",
+    "surface": "A broad level vendor side table, no additional products in the recipe zone.",
+    "lighting": "Bright diffused canopy daylight.",
+    "sleeves": "Green checked cotton shirt sleeves."
+  },
+  {
+    "family": "ar_livre",
+    "slug": "desert_cabin",
+    "environment": "A quiet desert cabin covered porch, mesquite trees and red-rock hills visible beyond.",
+    "surface": "A broad stable level cedar table.",
+    "lighting": "Warm sunset side light, labels fully readable.",
+    "sleeves": "Tan canvas shirt sleeves."
+  },
+  {
+    "family": "nostalgia_lanchonetes",
+    "slug": "truckstop_lounge",
+    "environment": "An American truck-stop lounge with booths, road maps and distant windows onto parked trucks.",
+    "surface": "A broad stable horizontal booth table.",
+    "lighting": "Neutral daylight and ceiling lights.",
+    "sleeves": "Navy denim shirt sleeves."
+  },
+  {
+    "family": "esportes",
+    "slug": "fishing_tournament",
+    "environment": "An American fishing-tournament registration pavilion with a lake, distant parked boats and small event signs behind.",
+    "surface": "A broad firm horizontal registration side table with a clear food area.",
+    "lighting": "Cool shaded morning daylight.",
+    "sleeves": "Khaki fishing-shirt sleeves."
+  },
+  {
+    "family": "nostalgia_lanchonetes",
+    "slug": "railway_cafe",
+    "environment": "A small restored railroad-depot cafe with a platform visible through windows and old railroad photos behind.",
+    "surface": "A broad level wooden cafe table.",
+    "lighting": "Soft morning window light.",
+    "sleeves": "Burgundy knit sweater cuffs."
+  },
+  {
+    "family": "hobbies",
+    "slug": "isca_pesca",
+    "environment": "A fly-tying hobby room with a corkboard of fishing flies and a closed tackle cabinet behind.",
+    "surface": "A broad horizontal clean preparation board on a workbench, away from hooks and vise.",
+    "lighting": "Bright desk-lamp lighting.",
+    "sleeves": "Forest green fishing-shirt sleeves."
+  },
+  {
+    "family": "comunidade",
+    "slug": "library_history",
+    "environment": "A small-town library local-history room with old town photographs and bookshelves behind.",
+    "surface": "A broad sturdy level community activity table with a clean food zone.",
+    "lighting": "Soft natural side window light.",
+    "sleeves": "Burgundy cardigan cuffs."
+  },
+  {
+    "family": "cotidiano_lojas",
+    "slug": "rural_postoffice",
+    "environment": "A rural American post-office community porch with mailboxes and an old brick facade in the background.",
+    "surface": "A broad stable horizontal public picnic table.",
+    "lighting": "Warm early afternoon daylight.",
+    "sleeves": "Pale blue cotton shirt sleeves."
+  },
+  {
+    "family": "campo_trabalho",
+    "slug": "ranch_bunkhouse",
+    "environment": "An American ranch bunkhouse common room with western landscape photos and simple wood furniture.",
+    "surface": "A broad sturdy horizontal pine dining table.",
+    "lighting": "Warm morning window light.",
+    "sleeves": "Red checked ranch shirt sleeves."
+  },
+  {
+    "family": "casa_oficina",
+    "slug": "galpao_jardim",
+    "environment": "A red backyard garden shed, rake rack and a push mower parked far behind the recipe.",
+    "surface": "A large firm horizontal indoor shed workbench with a clean preparation board.",
+    "lighting": "Natural light from the open double doors.",
+    "sleeves": "Khaki canvas shirt sleeves."
+  },
+  {
+    "family": "esportes",
+    "slug": "golf_drivingrange",
+    "environment": "A quiet American driving-range clubhouse patio with range markers and practice bays behind.",
+    "surface": "A broad stable level patio table away from golf clubs.",
+    "lighting": "Soft morning sunlight.",
+    "sleeves": "Cream golf pullover cuffs."
+  },
+  {
+    "family": "veiculos_lazer",
+    "slug": "pontoon_marina",
+    "environment": "A pontoon boat tied securely at a calm marina, dock and moored boats visible behind.",
+    "surface": "A broad rigid level onboard table fully supported by its fixed pedestal.",
+    "lighting": "Soft late afternoon light.",
+    "sleeves": "Light gray fishing-shirt sleeves."
+  },
+  {
+    "family": "ar_livre",
+    "slug": "trilha_pavilhao",
+    "environment": "A state-park trailhead pavilion with a trail map board and forest in the background.",
+    "surface": "A broad sturdy horizontal picnic table under the roof.",
+    "lighting": "Soft shaded midday light.",
+    "sleeves": "Blue outdoor jacket sleeves."
+  },
+  {
+    "family": "carros_estrada",
+    "slug": "car_show_tenda",
+    "environment": "An outdoor American classic-car show with vintage cars and a canopy beyond the foreground.",
+    "surface": "A broad horizontal folding table firmly planted under the canopy.",
+    "lighting": "Bright diffused midday canopy light.",
+    "sleeves": "Royal blue work-shirt sleeves."
+  },
+  {
+    "family": "campo_trabalho",
+    "slug": "maple_sugarhouse",
+    "environment": "A New England maple sugarhouse with timber beams and stationary metal equipment in the far background.",
+    "surface": "A broad clean level wooden side table, away from all equipment.",
+    "lighting": "Soft daylight through barn windows.",
+    "sleeves": "Dark red flannel sleeves."
+  },
+  {
+    "family": "cotidiano_lojas",
+    "slug": "furniture_showroom",
+    "environment": "An American furniture-store farmhouse dining-room display with bookcases and a window-lit showroom behind.",
+    "surface": "A broad level oak dining table in the display.",
+    "lighting": "Soft showroom window daylight.",
+    "sleeves": "Cream checked cotton shirt sleeves."
+  },
+  {
+    "family": "ar_livre",
+    "slug": "catfish_pond",
+    "environment": "A rural catfish fishing pond with a simple pier, grassy bank and distant bait shack.",
+    "surface": "A wide rigid horizontal dock-side preparation table.",
+    "lighting": "Overcast bright afternoon.",
+    "sleeves": "Gray-green outdoor shirt sleeves."
+  },
+  {
+    "family": "casa_oficina",
+    "slug": "marcenaria_garagem",
+    "environment": "A suburban American garage woodshop with pegboard hand tools, a clamped wooden chair in the far background and an open garage door.",
+    "surface": "A broad clean maple woodworking bench, rigid and horizontal.",
+    "lighting": "Soft morning side daylight.",
+    "sleeves": "Olive cotton work-shirt sleeves."
+  },
+  {
+    "family": "carros_estrada",
+    "slug": "moto_garagem",
+    "environment": "A motorcycle enthusiast garage with a parked chrome touring motorcycle and helmets stored on a distant shelf.",
+    "surface": "A wide level worktable with a clean preparation board away from tools.",
+    "lighting": "Mixed open-door daylight and overhead light.",
+    "sleeves": "Black denim shirt sleeves."
+  },
+  {
+    "family": "esportes",
+    "slug": "baseball_concourse",
+    "environment": "A small-town American minor-league baseball stadium concourse with field and grandstand visible behind.",
+    "surface": "A broad fixed level wooden counter in an empty seating alcove.",
+    "lighting": "Late afternoon stadium daylight.",
+    "sleeves": "Navy baseball windbreaker sleeves."
+  },
+  {
+    "family": "veiculos_lazer",
+    "slug": "bassboat_dock",
+    "environment": "A stationary bass boat secured to a dock, a quiet lake and distant boathouses beyond.",
+    "surface": "A broad level preparation table rigidly attached to the deck, away from rods and controls.",
+    "lighting": "Cool dawn daylight with bright foreground.",
+    "sleeves": "Muted green fishing-shirt sleeves."
+  },
+  {
+    "family": "nostalgia_lanchonetes",
+    "slug": "generalstore_cafe",
+    "environment": "An old American general-store cafe corner with a vintage cash register and candy jars far behind.",
+    "surface": "A broad horizontal oak table with a clear preparation zone.",
+    "lighting": "Warm side window daylight.",
+    "sleeves": "Tan cotton shirt sleeves."
+  },
+  {
+    "family": "hobbies",
+    "slug": "radio_restauracao",
+    "environment": "A vintage radio restoration room with wooden tabletop radios and spare vacuum tubes behind glass.",
+    "surface": "A broad level clean bench separated from repair equipment.",
+    "lighting": "Golden table-lamp illumination.",
+    "sleeves": "Gray herringbone shirt sleeves."
+  },
+  {
+    "family": "comunidade",
+    "slug": "church_fellowship",
+    "environment": "A church fellowship hall with stained-glass window accents, coffee urn and empty tables in the distance.",
+    "surface": "A broad stable horizontal banquet table with a dedicated clear area.",
+    "lighting": "Soft mixed window and ceiling light.",
+    "sleeves": "White cotton shirt sleeves."
+  },
+  {
+    "family": "nostalgia_lanchonetes",
+    "slug": "route66_diner",
+    "environment": "A classic American Route 66 diner booth area with chrome trim, jukebox and old highway signs behind.",
+    "surface": "A broad stable horizontal diner table.",
+    "lighting": "Warm afternoon window light.",
+    "sleeves": "Blue chambray sleeves."
+  },
+  {
+    "family": "comunidade",
+    "slug": "grange_hall",
+    "environment": "A rural American Grange community hall with timber walls, folding chairs and a county-fair notice board.",
+    "surface": "A broad sturdy level folding banquet table.",
+    "lighting": "Warm ceiling light and window daylight.",
+    "sleeves": "Light blue checked shirt sleeves."
+  },
+  {
+    "family": "carros_estrada",
+    "slug": "oficina_pneus",
+    "environment": "A small-town tire shop with stacked tires, a lift and a parked truck far behind.",
+    "surface": "A wide stable level workbench with a clean food-preparation area.",
+    "lighting": "Open-door daylight and neutral shop lamps.",
+    "sleeves": "Navy mechanic shirt sleeves."
+  },
+  {
+    "family": "casa_oficina",
+    "slug": "porch_appalachia",
+    "environment": "A screened Appalachian cabin porch, forested hills and two empty rocking chairs in the background.",
+    "surface": "A broad level pine porch table.",
+    "lighting": "Warm early evening side light.",
+    "sleeves": "Rust brown flannel sleeves."
+  },
+  {
+    "family": "esportes",
+    "slug": "horseshoe_park",
+    "environment": "A community park horseshoe-pitching area with empty pits and a small shelter behind.",
+    "surface": "A broad level picnic table well away from the pits.",
+    "lighting": "Warm late morning daylight.",
+    "sleeves": "Blue checked shirt sleeves."
+  },
+  {
+    "family": "cotidiano_lojas",
+    "slug": "hardware_keys",
+    "environment": "An American small-town hardware store with a distant key-cutting station and neatly organized hardware bins.",
+    "surface": "A broad rigid level demonstration table with a clean preparation board, separate from machines.",
+    "lighting": "Bright neutral store lighting.",
+    "sleeves": "Dark blue work-shirt sleeves."
+  },
+  {
+    "family": "hobbies",
+    "slug": "relogios_oficina",
+    "environment": "A watch-repair hobby room with large wall clocks, a magnifier lamp and closed parts drawers behind.",
+    "surface": "A wide level bench with a clean dedicated preparation board away from tiny parts.",
+    "lighting": "Neutral task lighting.",
+    "sleeves": "Pale gray work-shirt sleeves."
+  },
+  {
+    "family": "ar_livre",
+    "slug": "camping_pines",
+    "environment": "An American pine-forest campsite with a pitched canvas tent and cold fire ring in the distance.",
+    "surface": "A broad sturdy horizontal campground picnic table.",
+    "lighting": "Clear cool morning daylight.",
+    "sleeves": "Rust orange outdoor flannel sleeves."
+  },
+  {
+    "family": "veiculos_lazer",
+    "slug": "houseboat_galley",
+    "environment": "A houseboat tied to a calm dock, a wood-paneled galley and wooded shoreline through the window.",
+    "surface": "A broad level galley counter, firmly attached.",
+    "lighting": "Warm late morning daylight.",
+    "sleeves": "Khaki long-sleeve shirt."
+  },
+  {
+    "family": "campo_trabalho",
+    "slug": "tractor_workshop",
+    "environment": "A rural equipment workshop with a parked green tractor and organized hand tools in the distance.",
+    "surface": "A broad level workbench covered by a clean rigid preparation board.",
+    "lighting": "Open-door daylight.",
+    "sleeves": "Olive work-shirt sleeves."
+  },
+  {
+    "family": "veiculos_lazer",
+    "slug": "golf_clubhouse_cart",
+    "environment": "A parked golf cart beside a clubhouse with brick arches and golf bags stored behind.",
+    "surface": "A broad rigid level passenger-side tray away from the steering wheel.",
+    "lighting": "Soft morning sunlight.",
+    "sleeves": "Navy golf pullover cuffs."
+  },
+  {
+    "family": "ar_livre",
+    "slug": "bbq_tijolo",
+    "environment": "A suburban American backyard with a brick barbecue station and an empty patio seating area behind.",
+    "surface": "A broad clean level counter beside the barbecue, no fire or smoke near recipe.",
+    "lighting": "Warm afternoon daylight.",
+    "sleeves": "Dark olive cotton sleeves."
+  },
+  {
+    "family": "nostalgia_lanchonetes",
+    "slug": "busdepot_cafe",
+    "environment": "A preserved historic American bus-depot cafe with tiled walls and a window onto old buses parked outside.",
+    "surface": "A broad stable horizontal laminate diner table.",
+    "lighting": "Bright neutral overhead lighting.",
+    "sleeves": "Blue checked cotton sleeves."
+  },
+  {
+    "family": "campo_trabalho",
+    "slug": "orchard_packshed",
+    "environment": "An American orchard packing shed with empty wooden crates and a stationary conveyor well behind.",
+    "surface": "A broad clean level side worktable separate from the machinery.",
+    "lighting": "Diffuse daylight through open shed sides.",
+    "sleeves": "Forest green work-shirt sleeves."
+  },
+  {
+    "family": "casa_oficina",
+    "slug": "solarium",
+    "environment": "A modest Midwestern sunroom with wicker chairs, houseplants and a view of an autumn yard.",
+    "surface": "A sturdy broad level wooden table.",
+    "lighting": "Soft late morning daylight.",
+    "sleeves": "Burgundy knit sweater cuffs."
+  },
+  {
+    "family": "comunidade",
+    "slug": "legion_dininghall",
+    "environment": "An American Legion dining hall with modest flags, framed group photographs and empty banquet chairs behind.",
+    "surface": "A broad horizontal banquet table with a clean preparation zone.",
+    "lighting": "Soft side window daylight.",
+    "sleeves": "Navy cotton shirt sleeves."
+  },
+  {
+    "family": "esportes",
+    "slug": "baseball_dugout",
+    "environment": "An empty little-league baseball field picnic shelter with dugout and scoreboard visible beyond.",
+    "surface": "A broad stable horizontal wooden picnic table.",
+    "lighting": "Clear late afternoon sunlight.",
+    "sleeves": "Gray baseball sweatshirt sleeves."
+  },
+  {
+    "family": "cotidiano_lojas",
+    "slug": "antique_mall",
+    "environment": "An American antique mall cafe nook with old clocks, glass cabinets and vintage signs in the distance.",
+    "surface": "A broad stable level wooden table.",
+    "lighting": "Soft diffused interior daylight.",
+    "sleeves": "Muted brown sweater cuffs."
+  },
+  {
+    "family": "carros_estrada",
+    "slug": "rest_stop_montanha",
+    "environment": "An American mountain highway rest stop with a parked pickup and scenic overlook rail behind.",
+    "surface": "A broad firm horizontal wooden picnic table.",
+    "lighting": "Clear cool late morning light.",
+    "sleeves": "Blue-gray fleece sleeves."
+  },
+  {
+    "family": "hobbies",
+    "slug": "aquario_hobby",
+    "environment": "A home aquarium hobby room with a large freshwater aquarium, aquatic plants and cabinets in the background.",
+    "surface": "A sturdy wide level wooden preparation table separate from tanks and cables.",
+    "lighting": "Neutral room light with gentle aquarium glow behind.",
+    "sleeves": "Dark teal sweatshirt sleeves."
+  }
+]
